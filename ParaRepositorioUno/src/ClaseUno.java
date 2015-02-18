@@ -5,5 +5,7 @@ public class ClaseUno {
 	int propTres;
 	int propCuatro;
 	int propSeis;
+	int propQuinto;
+
 	
 }
